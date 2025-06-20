@@ -1,4 +1,7 @@
-## Hi there 👋
+## ¡Hola!
+Soy Glorivict Noguera, entusiasta de la ciencia de datos y del aprendizaje constante. Actualmente estoy en formación como Data Scientist en el bootcamp de TripleTen, donde estoy fortaleciendo mis habilidades en Python, SQL, estadística, limpieza de datos y visualización, a través de proyectos prácticos orientados a resolver problemas reales.
+
+💡 Estoy en constante desarrollo y abierta a nuevas oportunidades para seguir creciendo y colaborar en proyectos con impacto.
 
 <!--
 **gnoguera1/gnoguera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
